@@ -1,0 +1,12 @@
+{
+  "name": "HTTP_SERVER",
+  "version": "1.0.0",
+  "description": "A node server wwith http package",
+  "main": "index.js",
+  "author": "Josh",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+
+}
